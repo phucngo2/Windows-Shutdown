@@ -6,7 +6,7 @@ One day, I discovered that using the command prompt (cmd) allowed my old laptop 
 Finally, I decided to build this desktop application to ensure proper shutdowns.
 
 (P.S. I bought a new laptop afterward 🙂! Hopefully, I won't need to use this app again in the future.)
-## Build With
+## Built With
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
